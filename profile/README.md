@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This GitHub org contains cloud provider configuration and is owned by digital developement & technology in JP/Politikens Hus A/S.
+
 <!--
 
 **Here are some ideas to get you started:**
