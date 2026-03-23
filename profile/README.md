@@ -2,7 +2,7 @@
 
 This GitHub org contains cloud provider configuration and is maintained by the cloud team in JP/Politikens Hus A/S.
 
-Documentation starts [here](https://sturdy-broccoli-43wy85n.pages.github.io/)
+[Documentationhere](https://private.docs.cloud.jppol.dk/)
 
 <!--
 
