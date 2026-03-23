@@ -2,7 +2,7 @@
 
 This GitHub org contains cloud provider configuration and is maintained by the cloud team in JP/Politikens Hus A/S.
 
-[Documentationhere](https://private.docs.cloud.jppol.dk/)
+[Documentation](https://private.docs.cloud.jppol.dk/)
 
 <!--
 
